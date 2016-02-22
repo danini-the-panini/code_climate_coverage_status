@@ -1,0 +1,15 @@
+{
+  "name": "code_climate_coverage_status",
+  "version": "1.0.0",
+  "description": "Github Commit status for Code Climate Coverage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Smith",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "superagent": "^1.7.2"
+  }
+}
