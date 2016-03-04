@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.13.4",
     "superagent": "^1.7.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
